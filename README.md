@@ -70,7 +70,7 @@ Learn how agents interact with environments:
 - Rewards and Penalties
 - Policies and Actions
 - Q-Learning Basics
-- 
+  
 🎯 Goal
 To master Machine Learning from beginner to advanced, building a solid understanding of:
 
