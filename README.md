@@ -40,8 +40,8 @@ Learn unsupervised learning techniques:
 5. Association Rule Learning (Intermediate)
 Discover relationships between items:
 
--Apriori
--Eclat
+- Apriori
+- Eclat
 6. Dimensionality Reduction (Intermediate to Advanced)
 Reduce feature space while preserving useful information:
 
