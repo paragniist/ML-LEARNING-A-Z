@@ -14,6 +14,7 @@ Before building models, learn how to prepare data:
 - Splitting Data into Train/Test Sets
   
 2. Regression (Beginner to Intermediate)
+   
 Learn supervised learning for predicting continuous values:
 
 - Simple Linear Regression
@@ -24,6 +25,7 @@ Learn supervised learning for predicting continuous values:
 - Random Forest Regression
   
 3. Classification (Intermediate)
+   
 Learn supervised learning for predicting categories:
 
 - Logistic Regression
@@ -31,18 +33,22 @@ Learn supervised learning for predicting categories:
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Kernel SVM
+  
 4. Clustering (Intermediate)
+   
 Learn unsupervised learning techniques:
 
 - K-Means Clustering
 - Hierarchical Clustering
   
 5. Association Rule Learning (Intermediate)
+   
 Discover relationships between items:
 
 - Apriori
 - Eclat
 6. Dimensionality Reduction (Intermediate to Advanced)
+
 Reduce feature space while preserving useful information:
 
 - Principal Component Analysis (PCA)
@@ -50,6 +56,7 @@ Reduce feature space while preserving useful information:
 - Kernel PCA
 
 7. Model Selection & Boosting (Advanced)
+   
 Improve model performance and select the best models:
 
 - K-Fold Cross Validation
@@ -57,6 +64,7 @@ Improve model performance and select the best models:
 - XGBoost
 
 8. Natural Language Processing (NLP) (Advanced)
+   
 Apply ML to text data:
 
 - Text Cleaning
@@ -64,6 +72,7 @@ Apply ML to text data:
 - Bag of Words / TF-IDF
 - NLP Model Basics
 9. Reinforcement Learning (Advanced)
+  
 Learn how agents interact with environments:
 
 - Agent–Environment Framework
